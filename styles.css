@@ -1,0 +1,27 @@
+#puzzle{
+    margin: 0 auto ;
+    border: solid black 2px;
+    width: 450px;
+    height: 450px;
+}
+button{
+  position: relative;
+  left: 600px;
+  top:40px
+   
+}
+
+#puzzle input {
+    height:50px;
+    width:50px;
+    box-sizing: border-box;
+    border-spacing:0;
+    border: 1px lightgrey solid;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em
+}
+.add-section {
+  
+  background-color: #e5e4e2;
+}
